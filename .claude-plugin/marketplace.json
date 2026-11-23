@@ -1,0 +1,5 @@
+{
+  "name": "claude-proyectos",
+  "owner": { "name": "Moleculo256" },
+  "plugins": [{ "name": "proyectos", "source": "./" }]
+}

@@ -1,0 +1,1 @@
+{ "name": "proyectos", "version": "0.2.0", "description": "Proyectos al estilo Claude Cowork: instrucciones y memoria compartidas entre todos los chats de un proyecto.", "types": "./types/index.d.ts" }
